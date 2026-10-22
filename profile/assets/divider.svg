@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="img" aria-labelledby="t d">
+<title id="t">Separador</title>
+<desc id="d">Línea dorada</desc>
+<style>
+@keyframes glint{0%{transform:translateX(-200px)}100%{transform:translateX(1400px)}}
+.g{animation:glint 4.5s cubic-bezier(.5,0,.5,1) infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#C9A96E" stop-opacity="0"/><stop offset=".5" stop-color="#C9A96E" stop-opacity=".55"/><stop offset="1" stop-color="#C9A96E" stop-opacity="0"/></linearGradient>
+<linearGradient id="gl" x1="0" x2="1"><stop offset="0" stop-color="#E8D5A8" stop-opacity="0"/><stop offset=".5" stop-color="#E8D5A8"/><stop offset="1" stop-color="#E8D5A8" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="0" y="16.5" width="1200" height="1" fill="url(#ln)"/>
+<rect class="g" x="0" y="16" width="160" height="2" fill="url(#gl)"/>
+<rect x="594" y="11" width="12" height="12" fill="#0E0E0E" stroke="#C9A96E" transform="rotate(45 600 17)"/>
+</svg>

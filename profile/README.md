@@ -8,7 +8,7 @@
 [![Diagnóstico gratuito](https://img.shields.io/badge/Diagnóstico_gratuito-C9A96E?style=for-the-badge&logo=googlecalendar&logoColor=0E0E0E)](https://forgia.es/diagnostico-gratuito)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34644636000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2A6B7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/forgia-agents/)
-[![Email](https://img.shields.io/badge/forgia@forgia.es-F7F3ED?style=for-the-badge&logo=gmail&logoColor=0E0E0E)](mailto:forgia@forgia.es)
+[![Email](https://img.shields.io/badge/soporte@forgia.es-F7F3ED?style=for-the-badge&logo=gmail&logoColor=0E0E0E)](mailto:soporte@forgia.es)
 
 </div>
 
